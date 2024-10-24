@@ -8,8 +8,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00Dbm0000084LF9',
-				'Web_Chat',
-				'https://valtech-26e-dev-ed.develop.my.site.com/ESWWebChat1723842704538',
+				'ESD_MIAW',
+				'https://valtech-26e-dev-ed.develop.my.site.com/ESWESDMIAW1729780055975',
 				{
 					scrt2URL: 'https://valtech-26e-dev-ed.develop.my.salesforce-scrt.com'
 				}
@@ -19,9 +19,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://valtech-26e-dev-ed.develop.my.site.com/ESWWebChat1723842704538/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://valtech-26e-dev-ed.develop.my.site.com/ESWESDMIAW1729780055975/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
-
-<h3>Teste chat</h3>
+<h3>Teste chat 2</h3>
 </body>
 </html>
