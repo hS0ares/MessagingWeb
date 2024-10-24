@@ -22,5 +22,6 @@
 <script type='text/javascript' src='https://valtech-26e-dev-ed.develop.my.site.com/ESWESDMIAW1729780055975/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 <h3>Teste chat 2</h3>
+<img src="chat_agente.jpg" />
 </body>
 </html>
